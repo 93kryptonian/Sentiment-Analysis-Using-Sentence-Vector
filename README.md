@@ -1,2 +1,7 @@
 # Sentiment-Analysis-Using-Sentence-Vector
-NLP
+
+Sentiment Analysis Using Sentence Vectorizer 
+
+# Applied Tools
+- Bag of Words
+- SVM Classifier
